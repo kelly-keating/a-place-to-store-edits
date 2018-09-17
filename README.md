@@ -14,3 +14,5 @@
 // Link broken\
 [5. Feedback](https://github.com/dev-academy-programme/foundations/blob/master/sprint-1/README.md#core)\
 // to be completed file found [here](https://github.com/dev-academy-programme/foundations/blob/master/resources/feedback.md)?
+
+// When do we introduce Zoom? Pre-prep? (as it is used during orientation)
