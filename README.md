@@ -1,5 +1,7 @@
 # a-place-to-store-edits
 
+// Branches to be removed from foundations/foundations repo
+
 // Atom shortcuts?\
 [For shortcuts, try shortcutfoo. You'll want to know about some of the awesome Atom shortcuts.](https://github.com/dev-academy-programme/student-prep/blob/master/prep-curriculum/tech-typing.md#typing-and-shortcuts)
 
@@ -16,3 +18,6 @@
 // to be completed file found [here](https://github.com/dev-academy-programme/foundations/blob/master/resources/feedback.md)?
 
 // When do we introduce Zoom? Pre-prep? (as it is used during orientation)
+
+
+// Image - [here](https://github.com/dev-academy-programme/foundations/blob/kelly-wk1-review/sprint-1/git-remote-sync-fork-challenge.md#add-a-new-remote) - references our originating repo (that they don't have access to) rather than dev-academy-foundations repo
